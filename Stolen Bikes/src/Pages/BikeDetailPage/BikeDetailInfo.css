@@ -1,0 +1,26 @@
+.bike-detail-info {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 5em;
+}
+
+.home-link {
+    margin-right: 80%;
+    margin-top: 2em;
+    font-size: 1.7em;
+    text-decoration: none;
+}
+
+.stolen {
+    font-weight: bold;
+    color: red;
+}
+.found {
+    font-weight: bold;
+    color: green;
+}
+
+a:visited {
+    color: inherit;
+}
